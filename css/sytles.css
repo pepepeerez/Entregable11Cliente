@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.producto {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.producto span {
+    margin-right: 10px;
+}
+
+.delete-btn {
+    cursor: pointer;
+    color: red;
+}
+
+.formulario {
+    margin-top: 20px;
+}
